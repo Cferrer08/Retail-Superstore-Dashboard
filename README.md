@@ -1,7 +1,7 @@
 
 # 📊 Retail Superstore Sales Dashboard - Power BI
 
-## DASHBOARD DEMO: 
+### Dashboard Demo: 
 https://drive.google.com/file/d/1eCqOEnDF5WfiGUG0iG2mzykK7E6FNjLT/view?usp=sharing
 
 
