@@ -66,3 +66,7 @@ cd Retail-Superstore-Dashboard
 
 ## 📜 License
 This project is licensed under the **MIT License**.
+
+## Author
+
+- [@Carlos Ferrer](https://github.com/Cferrer08)
