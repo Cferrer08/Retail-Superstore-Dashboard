@@ -30,7 +30,7 @@ Follow these steps to set up the project:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Retail-Superstore-Dashboard.git
+git clone https://github.com/cferrer08/Retail-Superstore-Dashboard.git
 cd Retail-Superstore-Dashboard
 ```
 
